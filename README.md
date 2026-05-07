@@ -1,4 +1,4 @@
-# Student Attendance Manager
+# ProxyShield- AI Attendance Manager
 
 A full-stack web application for managing student attendance, generating reports, and sending automated notifications to teachers using Firebase Cloud Messaging (FCM) and Agenda.
 
